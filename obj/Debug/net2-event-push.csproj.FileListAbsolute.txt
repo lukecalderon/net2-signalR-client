@@ -1,0 +1,13 @@
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\net2-event-push.exe.config
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\net2-event-push.exe
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\net2-event-push.pdb
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\obj\Debug\net2-event-push.csproj.CoreCompileInputs.cache
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\obj\Debug\net2-event-push.csproj.CopyComplete
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\obj\Debug\net2-event-push.exe
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\obj\Debug\net2-event-push.pdb
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\obj\Debug\net2-event-push.csprojAssemblyReference.cache
+C:\Users\luke.calderon\source\repos\member-check-net2-push\net2-event-push\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
